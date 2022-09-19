@@ -8,8 +8,6 @@ Submitted for review to [CHI: 2023](https://chi2023.acm.org/) <img src="https://
 
 <p> Our research aims to create a text-classifier that classifies the <b> purpose code </b> of the CRS data using the project descriptions. </p>
 
-<h3> Data Source: (OECD)[https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1] </h3>
-
 <p> We employed </p>
 
 <ul>
