@@ -8,7 +8,7 @@ Submitted for review to [CHI: 2023](https://chi2023.acm.org/) <img src="https://
 
 <p> Our research aims to create a text-classifier that classifies the <b> purpose code </b> of the CRS data using the project descriptions. </p>
 
-<h3> Data Source: (OECD)[https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1] <h3>
+<h3> Data Source: (OECD)[https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1] </h3>
 
 <p> We employed </p>
 
@@ -22,8 +22,8 @@ Submitted for review to [CHI: 2023](https://chi2023.acm.org/) <img src="https://
   <li>Top-5 ELECTRA</li>
 </ul>
 
-For BiLSTM and CNN, we used ReLU activation in prediction with the embedding size 300, hidden dimension 64, and 10 epoch. Adam optimizer was used with a learning rate of 0.001. The batch size was set to 512.
-For BERT and ELECTRA, we used a 2-layer multilayer perceptron with ReLU activation as the prediction layer. The hidden dimension was set to 100, and Adam optimizer was used with a learning rate of 3e-5. 
+<p>For BiLSTM and CNN, we used ReLU activation in prediction with the embedding size 300, hidden dimension 64, and 10 epoch. Adam optimizer was used with a learning rate of 0.001. The batch size was set to 512.
+For BERT and ELECTRA, we used a 2-layer multilayer perceptron with ReLU activation as the prediction layer. The hidden dimension was set to 100, and Adam optimizer was used with a learning rate of 3e-5. </p>
 
 <p> the Results as Below </p>
 
