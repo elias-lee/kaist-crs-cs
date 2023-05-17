@@ -1,12 +1,10 @@
 <h1> KAIST_CRS_CS </h1>
 
 <p> This is a repository for the paper "Machine Learning Driven Aid Classification for Sustainable Development"
-Submitted for review to [CHI: 2023](https://chi2023.acm.org/) <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Hamburg, Germany</b> </p>
+Accepted to [IJCAI 2023: AI and Social Good Track](https://ijcai-23.org/) 
 
 
-**Disclaimer: All of the contents in this repository was co-authored with**
-
-<p> Our research aims to create a text-classifier that classifies the <b> purpose code </b> of the CRS data using the project descriptions. </p>
+<p> Our research aims to create a text-classifier that automatically classifies the <b> purpose code </b> of the ODA projects in the CRS data based on the project descriptions. </p>
 
 <p> We employed </p>
 
